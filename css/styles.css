@@ -108,6 +108,7 @@ hr {
     position: relative;
     width: 40%;
     bottom: 60px;
+    border-radius: 50%;
 }
 
 #email {
